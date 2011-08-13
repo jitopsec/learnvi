@@ -8,5 +8,6 @@ ZZ ::quite and save edit
 :w ::
 :q ::
 :wq ::
-:e! ::
-:q! ::
+:e! :: quitting without saving edit
+:q! :: quitting without saving edit
+:!(command) :: ':! df'
