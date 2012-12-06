@@ -36,3 +36,4 @@ Who this book is forPro HTML5 Accessibility is for the intermediate to advanced 
 10.Tools, Tips, and Tricks: Assessing Your Acessible HTML5 Project
 11.WCAG 2.0 Client-Side Scripting Techniques
 12.Definition of WAI-ARIA Roles
+2012/10/20
