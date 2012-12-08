@@ -1,0 +1,18 @@
+Arnold Robbins
+Arnold Robbins, an Atlanta native, is a professional programmer and technical author. 
+He has been working with Unix systems since 1980, when he was introduced to a PDP-11 running a version of Sixth Edition Unix. His experience also includes multiple commercial Unix systems, from Sun, IBM, HP and DEC. He has been working with GNU/Linux systems since 1996. He likes his Macintosh laptop, but it has been commandeered by one of his daughters.
+Arnold has also been a heavy awk user since 1987, when he became involved with gawk, the GNU project's version of awk. As a member of the POSIX 1003.2 balloting group, he helped shape the POSIX standard for awk. He is currently the maintainer of gawk and its documentation.
+O'Reilly has been keeping him busy: He is author and/or coauthor of the bestselling titles: Unix In A Nutshell, Effective awk Programming, sed & awk, Classic Shell Scripting, and several pocket references.
+View Arnold Robbins's full profile page.
+
+Elbert Hannah
+Elbert is a professional software engineer and software architect recently finishing a 21-year career in the telcom industry. He wrote a full screen editor in assembler in 1983 as his first professional assignment, and has had special interest in editors since. He loves connecting Unix to anything and once wrote a stream editor program to automate JCL edits for mainframe monthly configurations by streaming mainframeJCL to a stream editor on an RJE connected Unix box.
+He loves tinkering with everything Unix and considers any environment incomplete without his suite of Unix work-alike tools and the latest version of vim. He is a Unix Shell specialist, writing entire applications with only the shell.
+His telcom honored him with their highest award for money-saving applications that he authored using a set of mainframe screen-scraping tools he wrote himself. They continue to use those applications today. He was also one of three founding team members that brought web 1.0 to the corporate consciousness in his telco position, and his team featured on the cover of CIO Magazine for their innovative and pioneering works.
+He also served a brief stint on the original Microsoft NT beta support team in 1992.
+He loves bicycling, music, and reading. Today he lives in the Chicago area where he occasionally takes on short term projects and works on personal software products.
+View Elbert Hannah's full profile page.
+
+Linda Lamb
+Linda Lamb is a former employee of O'Reilly Media, where she worked in various capacities, including technical writer, editor of technical books, and marketing manager. She also worked on O'Reilly's series of consumer health books, Patient Centered Guides.
+View Linda Lamb's full profile page.
